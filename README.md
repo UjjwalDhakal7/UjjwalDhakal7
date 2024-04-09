@@ -1,8 +1,8 @@
-# Hello, I'm [Ujjwal Dhakal] 👋
+# Hello, I'm Ujjwal Dhakal 👋
 
 Aspiring Developer | Tech Enthusiast
 
-Welcome to my GitHub profile! I'm [Ujjwal Dhakal], an aspiring developer with a keen eye for creating engaging and user-friendly interfaces. Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, or reach out to me.
+Welcome to my GitHub profile! I'm Ujjwal Dhakal, an aspiring developer with a keen eye for creating engaging and user-friendly interfaces. Here you'll find a collection of my projects and contributions. Feel free to explore, contribute, or reach out to me.
 
 
 ## 🔧 Technologies & Tools
@@ -42,7 +42,6 @@ I believe in continuous learning. Here are the technologies I'm currently explor
 ## 📫 Let's Connect
 
 - LinkedIn: [Ujjwal Dhakal](https://www.linkedin.com/in/ujjwal-dhakal/)
-- Twitter: [@ujjwaldkl](https://www.x.com/ujjwaldkl)
 - Instagram: [@ujjwaldkl](https://www.instagram.com/ujjwaldkl)
 - Portfolio: (ujjwaldhakal.info.np)
 
